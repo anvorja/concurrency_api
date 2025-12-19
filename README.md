@@ -1,5 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/CrowCpp/Crow/master/docs/assets/crowlogo_dual_color.svg" width=600></p>
-
 ## API Server con Crow C++
 
 Un servidor web API simple construido con el framework Crow para C++.
